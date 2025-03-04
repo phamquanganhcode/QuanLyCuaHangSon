@@ -1,0 +1,16 @@
+D:\project\NhapN\NhapN\bin\Debug\net9.0-windows\NhapN.exe
+D:\project\NhapN\NhapN\bin\Debug\net9.0-windows\NhapN.deps.json
+D:\project\NhapN\NhapN\bin\Debug\net9.0-windows\NhapN.runtimeconfig.json
+D:\project\NhapN\NhapN\bin\Debug\net9.0-windows\NhapN.dll
+D:\project\NhapN\NhapN\bin\Debug\net9.0-windows\NhapN.pdb
+D:\project\NhapN\NhapN\obj\Debug\net9.0-windows\NhapN.Form1.resources
+D:\project\NhapN\NhapN\obj\Debug\net9.0-windows\NhapN.csproj.GenerateResource.cache
+D:\project\NhapN\NhapN\obj\Debug\net9.0-windows\NhapN.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\NhapN\NhapN\obj\Debug\net9.0-windows\NhapN.AssemblyInfoInputs.cache
+D:\project\NhapN\NhapN\obj\Debug\net9.0-windows\NhapN.AssemblyInfo.cs
+D:\project\NhapN\NhapN\obj\Debug\net9.0-windows\NhapN.csproj.CoreCompileInputs.cache
+D:\project\NhapN\NhapN\obj\Debug\net9.0-windows\NhapN.dll
+D:\project\NhapN\NhapN\obj\Debug\net9.0-windows\refint\NhapN.dll
+D:\project\NhapN\NhapN\obj\Debug\net9.0-windows\NhapN.pdb
+D:\project\NhapN\NhapN\obj\Debug\net9.0-windows\NhapN.genruntimeconfig.cache
+D:\project\NhapN\NhapN\obj\Debug\net9.0-windows\ref\NhapN.dll
