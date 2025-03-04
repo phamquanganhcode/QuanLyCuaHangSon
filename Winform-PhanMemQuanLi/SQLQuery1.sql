@@ -1,7 +1,7 @@
 ﻿CREATE DATABASE QuanLyKhoHang;
 USE QuanLyKhoHang;
 
--- Bảng người dùng (tạo trước để HoaDon có thể tham chiếu)
+-- Bảng người dùng 
 CREATE TABLE NguoiDung (
     ID_NgBan VARCHAR(100) PRIMARY KEY NOT NULL,
     MatKhau VARCHAR(100),
